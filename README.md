@@ -1,4 +1,4 @@
-# [ UI요소 만들기 강의 코드 - 보일러플레이트 ]
+# [ UI요소 만들기 ]
 
 ## 디렉토리 구조
 
@@ -12,32 +12,5 @@
   - `vanillaWrapper.ts`: 독립적인 VanillaJS 환경의 wrapper 컴포넌트
 - `routes.ts`: route 구성
 
-## Getting Started
-
-- 다운로드 받은 파일의 압축을 해제하고, 터미널에서 해당 폴더로 이동합니다.
-
-```bash
-cd uiComponents
-```
-
-- npm module 설치를 진행합니다.
-
-```bash
-npm install
-# or
-pnpm install
-# or
-yarn
-```
-
-- 개발 서버를 실행합니다.
-
-```bash
-npm run dev
-# or
-pnpm run dev
-# or
-yarn dev
-```
-
-- 브라우저에서 [http://localhost:3000](http://localhost:3000)에 접속하여 결과를 확인합니다.
+- 정재남님의 [React / VanillaJS] UI 요소 직접 만들기 Part 1의 강의를 보며 작업한 내용들을 올리고 있습니다.
+- [출처](https://www.inflearn.com/course/react-vanillajs-ui%EC%9A%94%EC%86%8C%EB%A7%8C%EB%93%A4%EA%B8%B0-part1)
